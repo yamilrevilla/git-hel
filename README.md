@@ -1,3 +1,6 @@
+# Course version
+Current Version: 1.2.2
+
 # Headings
 
 # Cabecera H1
